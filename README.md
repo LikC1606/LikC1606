@@ -1,45 +1,50 @@
+<div align="center">
+
 # Zhenhao Liu
 
-I am an undergraduate student majoring in Artificial Intelligence at [Westlake University](https://en.westlake.edu.cn/), Class of 2024. I am currently affiliated with the [Westlake NLP Lab](https://westlakenlp.com/) led by Prof. [Yue Zhang](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html).
+**Undergraduate in Artificial Intelligence @ Westlake University**<br>
+Westlake NLP Lab | Natural Language Processing | AI Scientist | Research Agents
 
-My research interests lie in natural language processing and AI Scientist systems. I am particularly interested in research-oriented language agents that can support scientific workflows, including literature understanding, idea generation, reasoning, and evidence-grounded research assistance.
+[![Westlake University](https://img.shields.io/badge/Westlake-University-0A66C2?style=flat-square)](https://en.westlake.edu.cn/)
+[![Westlake NLP](https://img.shields.io/badge/Lab-Westlake%20NLP-2E7D32?style=flat-square)](https://westlakenlp.com/)
+[![Advisor](https://img.shields.io/badge/Advisor-Yue%20Zhang-6A4C93?style=flat-square)](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html)
+[![GitHub](https://img.shields.io/badge/GitHub-LikC1606-24292F?style=flat-square&logo=github)](https://github.com/LikC1606)
 
-## Education
+</div>
 
-**Westlake University**  
-B.Eng. student in Artificial Intelligence, Class of 2024  
-Sophomore
+---
 
-## Affiliation
+## About
 
-**Westlake NLP Lab**, Westlake University  
-Advisor / Lab: Prof. Yue Zhang
+I am a sophomore undergraduate student majoring in **Artificial Intelligence** at [Westlake University](https://en.westlake.edu.cn/), Class of 2024. I am affiliated with the [Westlake NLP Lab](https://westlakenlp.com/) led by Prof. [Yue Zhang](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html).
 
-- Lab: [Westlake NLP](https://westlakenlp.com/)
-- Faculty profile: [Yue Zhang, Ph.D.](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html)
-- University: [Westlake University](https://en.westlake.edu.cn/)
+My interests lie in **natural language processing** and **AI Scientist systems**. I am especially interested in research-oriented language agents that can support scientific workflows, including literature understanding, idea generation, reasoning, and evidence-grounded research assistance.
 
-## Research Interests
+## Research Focus
 
-- Natural Language Processing
-- AI Scientist
-- Large Language Models
-- Research agents and evidence-grounded AI systems
-- Human-AI collaboration for scientific discovery
+| Area | What I am interested in |
+| --- | --- |
+| Natural Language Processing | Language understanding, reasoning, and trustworthy language models |
+| AI Scientist | Agentic systems for scientific discovery and research automation |
+| Research Agents | Evidence-grounded workflows for literature, hypotheses, and experiments |
+| Human-AI Collaboration | Tools that help people think, write, code, and discover more effectively |
+
+## Education & Affiliation
+
+| Role | Institution |
+| --- | --- |
+| B.Eng. student in Artificial Intelligence, Class of 2024 | [Westlake University](https://en.westlake.edu.cn/) |
+| Undergraduate affiliate | [Westlake NLP Lab](https://westlakenlp.com/) |
+| Lab advisor | Prof. [Yue Zhang](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html) |
 
 ## Honors
 
-- **Gold Medal**, The 50th ICPC Asia Xi'an Regional Contest, 2025  
-  Team: Westlake University
-
-- **Silver Medal**, The 50th ICPC Asia Shenyang Regional Contest, 2025  
-  Team: Westlake University
-
-- **Silver Medal**, The 50th ICPC Asia East Continent Final Contest, 2026  
-  Team: Westlake University
-
-- **Gold Medal**, The 11th China Collegiate Programming Contest, Zhengzhou Site, 2025  
-  Team: Westlake University
+| Award | Contest | Year |
+| --- | --- | --- |
+| Gold Medal | The 50th ICPC Asia Xi'an Regional Contest | 2025 |
+| Silver Medal | The 50th ICPC Asia Shenyang Regional Contest | 2025 |
+| Silver Medal | The 50th ICPC Asia East Continent Final Contest | 2026 |
+| Gold Medal | The 11th China Collegiate Programming Contest, Zhengzhou Site | 2025 |
 
 ## Contact
 
