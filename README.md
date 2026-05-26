@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/profile-banner.svg" alt="NLP, AI Scientist, research agents, and scientific discovery" width="100%" />
+
 # Zhenhao Liu
 
 **Undergraduate in Artificial Intelligence @ Westlake University**<br>
@@ -18,7 +20,7 @@ Westlake NLP Lab | Natural Language Processing | AI Scientist | Research Agents
 
 I am a sophomore undergraduate student majoring in **Artificial Intelligence** at [Westlake University](https://en.westlake.edu.cn/), Class of 2024. I am affiliated with the [Westlake NLP Lab](https://westlakenlp.com/) led by Prof. [Yue Zhang](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html).
 
-My interests lie in **natural language processing** and **AI Scientist systems**. I am especially interested in research-oriented language agents that can support scientific workflows, including literature understanding, idea generation, reasoning, and evidence-grounded research assistance.
+My interests lie in **natural language processing** and **AI Scientist systems**. I am currently exploring research-oriented language agents that can support scientific workflows, including literature understanding, idea generation, reasoning, and evidence-grounded research assistance.
 
 ## Research Focus
 

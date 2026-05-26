@@ -1,0 +1,48 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Zhenhao Liu research profile banner</title>
+  <desc id="desc">A refined academic banner showing NLP, research agents, AI scientist systems, and scientific discovery connected as a research workflow.</desc>
+  <rect width="1200" height="360" fill="#F8FAF7"/>
+  <path d="M0 281C132 242 226 257 344 229C465 201 534 143 667 150C806 157 879 236 1013 223C1082 216 1136 191 1200 167V360H0V281Z" fill="#E9F2EC"/>
+  <path d="M0 75C100 56 181 66 278 83C411 106 523 129 662 104C805 78 906 34 1038 55C1093 64 1149 84 1200 111V0H0V75Z" fill="#EEF4FA"/>
+
+  <g opacity="0.9">
+    <line x1="240" y1="174" x2="437" y2="128" stroke="#9AB6A3" stroke-width="2"/>
+    <line x1="437" y1="128" x2="632" y2="185" stroke="#9AB6A3" stroke-width="2"/>
+    <line x1="632" y1="185" x2="835" y2="124" stroke="#9AB6A3" stroke-width="2"/>
+    <line x1="437" y1="128" x2="835" y2="124" stroke="#C2D2C8" stroke-width="1.5" stroke-dasharray="8 10"/>
+    <line x1="240" y1="174" x2="632" y2="185" stroke="#C2D2C8" stroke-width="1.5" stroke-dasharray="8 10"/>
+  </g>
+
+  <g>
+    <circle cx="240" cy="174" r="45" fill="#FFFFFF" stroke="#6E9479" stroke-width="2"/>
+    <circle cx="437" cy="128" r="45" fill="#FFFFFF" stroke="#6A8DA8" stroke-width="2"/>
+    <circle cx="632" cy="185" r="45" fill="#FFFFFF" stroke="#8E7AAE" stroke-width="2"/>
+    <circle cx="835" cy="124" r="45" fill="#FFFFFF" stroke="#B28A63" stroke-width="2"/>
+  </g>
+
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+    <text x="240" y="169" font-size="20" font-weight="700" fill="#2F4D39">NLP</text>
+    <text x="240" y="193" font-size="13" fill="#55705D">language</text>
+
+    <text x="437" y="123" font-size="18" font-weight="700" fill="#2F4C63">Agents</text>
+    <text x="437" y="147" font-size="13" fill="#536A7B">reasoning</text>
+
+    <text x="632" y="180" font-size="18" font-weight="700" fill="#51436A">AI Scientist</text>
+    <text x="632" y="204" font-size="13" fill="#675A7E">research</text>
+
+    <text x="835" y="119" font-size="18" font-weight="700" fill="#694B31">Discovery</text>
+    <text x="835" y="143" font-size="13" fill="#806248">evidence</text>
+  </g>
+
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <text x="96" y="276" font-size="20" fill="#50625A" letter-spacing="2">WESTLAKE NLP LAB</text>
+    <text x="96" y="308" font-size="44" font-weight="700" fill="#1F2D2A">From language understanding to scientific discovery</text>
+  </g>
+
+  <g opacity="0.18" stroke="#263A34">
+    <path d="M1008 78H1118"/>
+    <path d="M1008 106H1160"/>
+    <path d="M1008 134H1136"/>
+    <path d="M1008 162H1180"/>
+  </g>
+</svg>
