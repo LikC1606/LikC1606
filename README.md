@@ -39,12 +39,12 @@ My interests lie in **natural language processing** and **AI Scientist systems**
 
 ## Honors
 
-| Award | Contest | Year | Source |
-| --- | --- | --- | --- |
-| Gold Medal | The 50th ICPC Asia Xi'an Regional Contest | 2025 | [CPC Finder](https://cpcfinder.com/contest/66) |
-| Silver Medal | The 50th ICPC Asia Shenyang Regional Contest | 2025 | [CPC Finder](https://cpcfinder.com/school/3801cd6e-5462-43ea-b737-4fcb86a35c77), [XCPCIO](https://board.xcpcio.com/icpc/50th/shenyang) |
-| Silver Medal | The 50th ICPC Asia East Continent Final Contest | 2026 | [CPC Finder](https://cpcfinder.com/contest/77) |
-| Gold Medal | The 11th China Collegiate Programming Contest, Zhengzhou Site | 2025 | [CPC Finder](https://cpcfinder.com/school/3801cd6e-5462-43ea-b737-4fcb86a35c77) |
+| Award | Contest | Year |
+| --- | --- | --- |
+| Gold Medal | [The 50th ICPC Asia Xi'an Regional Contest](https://cpcfinder.com/contest/66) | 2025 |
+| Silver Medal | [The 50th ICPC Asia Shenyang Regional Contest](https://board.xcpcio.com/icpc/50th/shenyang) | 2025 |
+| Silver Medal | [The 50th ICPC Asia East Continent Final Contest](https://cpcfinder.com/contest/77) | 2026 |
+| Gold Medal | [The 11th China Collegiate Programming Contest, Zhengzhou Site](https://cpcfinder.com/school/3801cd6e-5462-43ea-b737-4fcb86a35c77) | 2025 |
 
 ## Contact
 
