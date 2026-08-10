@@ -1,53 +1,48 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="NLP, AI Scientist, research agents, and scientific discovery" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Zhenhao Liu - NLP, research agents, and AI for scientific discovery" width="100%" />
 
-# Zhenhao Liu
+### Undergraduate researcher building evidence-grounded AI for science
 
-**Undergraduate in Artificial Intelligence @ Westlake University**<br>
-Westlake NLP Lab | Natural Language Processing | AI Scientist | Research Agents
-
-[![Westlake University](https://img.shields.io/badge/Westlake-University-0A66C2?style=flat-square)](https://en.westlake.edu.cn/)
-[![Westlake NLP](https://img.shields.io/badge/Lab-Westlake%20NLP-2E7D32?style=flat-square)](https://westlakenlp.com/)
-[![Advisor](https://img.shields.io/badge/Advisor-Yue%20Zhang-6A4C93?style=flat-square)](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html)
-[![GitHub](https://img.shields.io/badge/GitHub-LikC1606-24292F?style=flat-square&logo=github)](https://github.com/LikC1606)
+[Westlake University](https://en.westlake.edu.cn/) · [Westlake NLP Lab](https://westlakenlp.com/) · Advised by Prof. [Yue Zhang](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html)
 
 </div>
 
----
+## Hello
 
-## About
+I am **Zhenhao Liu**, an undergraduate in Artificial Intelligence at Westlake University. I work at the intersection of **natural language processing**, **research agents**, and **AI Scientist systems**.
 
-I am a sophomore undergraduate student majoring in **Artificial Intelligence** at [Westlake University](https://en.westlake.edu.cn/), Class of 2024. I am affiliated with the [Westlake NLP Lab](https://westlakenlp.com/) led by Prof. [Yue Zhang](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html).
+My current interest is simple to state and difficult to solve: how can language agents turn literature, researcher insight, and experimental feedback into decisions that are useful, traceable, and scientifically defensible?
 
-My interests lie in **natural language processing** and **AI Scientist systems**. I am currently exploring research-oriented language agents that can support scientific workflows, including literature understanding, idea generation, reasoning, and evidence-grounded research assistance.
+## Research
 
-## Research Focus
+- **Evidence-grounded agents** — compiling sources and researcher priors into auditable execution policies.
+- **AI for scientific discovery** — improving how agents form hypotheses, choose experiments, and learn under limited budgets.
+- **Human-AI research workflows** — building tools that preserve uncertainty, negative results, and provenance.
 
-| Area | What I am interested in |
-| --- | --- |
-| Natural Language Processing | Language understanding, reasoning, and trustworthy language models |
-| AI Scientist | Agentic systems for scientific discovery and research automation |
-| Research Agents | Evidence-grounded workflows for literature, hypotheses, and experiments |
-| Human-AI Collaboration | Tools that help people think, write, code, and discover more effectively |
+## Open-Source Projects
 
-## Education & Affiliation
+### [Lab Meeting Report Skill](https://github.com/LikC1606/lab-meeting-report-skill)
 
-| Role | Institution |
-| --- | --- |
-| B.Eng. student in Artificial Intelligence, Class of 2024 | [Westlake University](https://en.westlake.edu.cn/) |
-| Undergraduate affiliate | [Westlake NLP Lab](https://westlakenlp.com/) |
-| Lab advisor | Prof. [Yue Zhang](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html) |
+An agent skill that turns experiment notes, papers, and meeting transcripts into evidence-grounded research reports while preserving failures, uncertainty, and source provenance.
+
+`scientific communication` · `agent skills` · `reproducible reporting`
+
+### [Idea2Product](https://github.com/LikC1606/idea2product)
+
+A multi-agent pipeline that turns a natural-language product idea into a runnable web application through requirements analysis, planning, code generation, and validation.
+
+`multi-agent systems` · `code generation` · `software validation`
 
 ## Honors
 
-| Award | Contest | Year |
-| --- | --- | --- |
-| Gold Medal | [The 50th ICPC Asia Xi'an Regional Contest](https://cpcfinder.com/contest/66) | 2025 |
-| Silver Medal | [The 50th ICPC Asia Shenyang Regional Contest](https://board.xcpcio.com/icpc/50th/shenyang) | 2025 |
-| Silver Medal | [The 50th ICPC Asia East Continent Final Contest](https://cpcfinder.com/contest/77) | 2026 |
-| Gold Medal | [The 11th China Collegiate Programming Contest, Zhengzhou Site](https://cpcfinder.com/school/3801cd6e-5462-43ea-b737-4fcb86a35c77) | 2025 |
+| Year | Competitive Programming |
+| :--- | :--- |
+| 2026 | Silver Medal · [ICPC Asia East Continent Final](https://cpcfinder.com/contest/77) |
+| 2025 | Gold Medal · [ICPC Asia Xi'an Regional](https://cpcfinder.com/contest/66) |
+| 2025 | Gold Medal · [CCPC Zhengzhou Site](https://cpcfinder.com/school/3801cd6e-5462-43ea-b737-4fcb86a35c77) |
+| 2025 | Silver Medal · [ICPC Asia Shenyang Regional](https://board.xcpcio.com/icpc/50th/shenyang) |
 
-## Contact
+## Find Me
 
-- GitHub: [LikC1606](https://github.com/LikC1606)
+I am interested in research conversations around language agents, AI for science, and evidence-grounded research workflows. The best way to reach me is through [GitHub](https://github.com/LikC1606).
