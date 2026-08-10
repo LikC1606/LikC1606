@@ -4,7 +4,8 @@
 
 ### Undergraduate researcher building evidence-grounded AI for science
 
-[Westlake University](https://en.westlake.edu.cn/) · [Westlake NLP Lab](https://westlakenlp.com/) · Advised by Prof. [Yue Zhang](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html)
+[Westlake University](https://en.westlake.edu.cn/) · [Westlake NLP Lab](https://westlakenlp.com/) · [Email](mailto:liuzhenhao@westlake.edu.cn)<br>
+Advised by Prof. [Yue Zhang](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.html)
 
 </div>
 
@@ -20,20 +21,6 @@ My current interest is simple to state and difficult to solve: how can language 
 - **AI for scientific discovery** — improving how agents form hypotheses, choose experiments, and learn under limited budgets.
 - **Human-AI research workflows** — building tools that preserve uncertainty, negative results, and provenance.
 
-## Open-Source Projects
-
-### [Lab Meeting Report Skill](https://github.com/LikC1606/lab-meeting-report-skill)
-
-An agent skill that turns experiment notes, papers, and meeting transcripts into evidence-grounded research reports while preserving failures, uncertainty, and source provenance.
-
-`scientific communication` · `agent skills` · `reproducible reporting`
-
-### [Idea2Product](https://github.com/LikC1606/idea2product)
-
-A multi-agent pipeline that turns a natural-language product idea into a runnable web application through requirements analysis, planning, code generation, and validation.
-
-`multi-agent systems` · `code generation` · `software validation`
-
 ## Honors
 
 | Year | Competitive Programming |
@@ -45,4 +32,4 @@ A multi-agent pipeline that turns a natural-language product idea into a runnabl
 
 ## Find Me
 
-I am interested in research conversations around language agents, AI for science, and evidence-grounded research workflows. The best way to reach me is through [GitHub](https://github.com/LikC1606).
+I am interested in research conversations around language agents, AI for science, and evidence-grounded research workflows. Reach me at [liuzhenhao@westlake.edu.cn](mailto:liuzhenhao@westlake.edu.cn) or through [GitHub](https://github.com/LikC1606).
