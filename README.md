@@ -11,17 +11,17 @@ Advised by Prof. [Yue Zhang](https://en.westlake.edu.cn/faculty/nlp/yue-zhang.ht
 
 </div>
 
-I am Zhenhao Liu, an undergraduate in Artificial Intelligence at Westlake University. My research interests include natural language processing, scientific agents, and the evaluation of AI systems for research.
+I am Zhenhao Liu, an undergraduate in Artificial Intelligence at Westlake University. My research interests include natural language processing, research agents, and the evaluation of AI systems for research.
 
-I study how agents use literature, researcher input, and experimental feedback to guide scientific work. I also build tools to carry research practices across AI assistants and preserve the evidence behind experiments and papers.
+I study how agents use literature, researcher input, and experimental feedback to guide scientific work. I also build tools that carry research practices across AI assistants and preserve the evidence behind experiments and papers.
 
 ## Selected projects
 
 | Project | What you'll find |
 | :--- | :--- |
-| [Zhizhou · 知舟](https://github.com/LikC1606/zhizhou) | Portable working memory for AI coding and research: skills, working agreements, and project context across assistants. |
+| [Zhizhou · 知舟](https://github.com/LikC1606/zhizhou) | Portable working memory for AI coding and research, including skills, working agreements, and project context across assistants. |
 | [Agent Engineering](https://github.com/LikC1606/agent-engineering) | Research workflows and tools for recording experiment commands, configurations, failures, and reruns. |
-| [Agent Paper Writing](https://github.com/LikC1606/agent-paper-writing) | Paper writing workflows with revision snapshots, LaTeX builds, and recorded visual reviews. |
+| [Agent Paper Writing](https://github.com/LikC1606/agent-paper-writing) | Paper-writing workflows with revision snapshots, LaTeX builds, and recorded visual reviews. |
 | [Deep Research](https://github.com/LikC1606/deep-research-skill) | A research skill for finding and reading evidence, following new leads, and writing traceable syntheses. |
 | [DeepScientist Math Proofs](https://github.com/LikC1606/deepscientist-math-proofs) | Three LeanEval V1 proof submissions with official acceptance links and original submission packages. |
 | [Active Preference Acquisition](https://github.com/LikC1606/active-preference-acquisition) | A CPU-only Harbor task for active reward modeling, with offline assets and reproducible evaluation records. |
@@ -45,4 +45,4 @@ Task-specific representations for word- and sentence-level fMRI encoding.<br>
 
 ## Contact
 
-For research conversations and collaboration, reach me at [liuzhenhao@westlake.edu.cn](mailto:liuzhenhao@westlake.edu.cn). More about my work is on my [website](https://likc1606.github.io/).
+For research conversations and collaboration, contact me at [liuzhenhao@westlake.edu.cn](mailto:liuzhenhao@westlake.edu.cn). More about my work is available on my [website](https://likc1606.github.io/).
