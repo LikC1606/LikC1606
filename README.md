@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner-v2.svg" alt="Zhenhao Liu: NLP, research agents, and AI for scientific discovery" width="100%" />
+<img src="./assets/profile-banner-dark.svg" alt="Zhenhao Liu: NLP, research agents, and AI for scientific discovery" width="100%" />
 
 ### Research agents and reproducible scientific workflows
 
