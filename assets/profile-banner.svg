@@ -1,30 +1,27 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Zhenhao Liu research profile</title>
-  <desc id="desc">A concise research notebook inspired banner for Zhenhao Liu.</desc>
-
-  <rect width="1200" height="260" rx="8" fill="#F7F8F6"/>
-  <rect width="14" height="260" rx="7" fill="#DE3E32"/>
-  <line x1="74" y1="0" x2="74" y2="260" stroke="#D9DEDA" stroke-width="2"/>
-  <line x1="96" y1="52" x2="1102" y2="52" stroke="#E4E7E4"/>
-  <line x1="96" y1="226" x2="1102" y2="226" stroke="#E4E7E4"/>
-
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="102" y="91" font-size="18" font-weight="700" fill="#1E7048">WESTLAKE NLP LAB / 2026</text>
-    <text x="98" y="160" font-size="68" font-weight="700" fill="#17211C">ZHENHAO LIU</text>
-    <text x="102" y="205" font-size="30" fill="#46524C">NLP / RESEARCH AGENTS / AI FOR SCIENCE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc" style="background-color:#FBFBF9">
+  <title id="title">Zhenhao Liu professional research profile</title>
+  <desc id="desc">A clean academic banner featuring serif typography, forest green accents, and a subtle abstract neural structure.</desc>
+  <defs>
+    <style>.name{font-family:Georgia,serif;font-weight:700;fill:#1A1A1A}.sub{font-family:Helvetica,Arial,sans-serif;letter-spacing:0.02em;fill:#3D4642}.accent{fill:#1E7048}.terracotta{fill:#C86C45}.line{stroke:#D0D0CE;stroke-width:0.5}</style>
+  </defs>
+  <rect width="1200" height="360" fill="#FBFBF9"/>
+  <rect x="0" y="0" width="1200" height="360" fill="none" stroke="#EBEBE9" stroke-width="1"/>
+  <g transform="translate(80, 120)">
+    <text class="name" font-size="100" y="0">Zhenhao Liu</text>
+    <text class="sub" font-size="20" y="40">WESTLAKE UNIVERSITY · NLP LAB</text>
+    <text class="sub" font-size="22" y="90" font-weight="600">NLP · Research agents · AI for science</text>
+    <rect class="accent" x="0" y="120" width="40" height="4" rx="2"/>
   </g>
-
-  <g transform="translate(948 88)">
-    <rect width="154" height="6" rx="3" fill="#1E7048"/>
-    <rect y="25" width="112" height="6" rx="3" fill="#2F68A2"/>
-    <rect y="50" width="136" height="6" rx="3" fill="#D39319"/>
-    <rect y="75" width="88" height="6" rx="3" fill="#DE3E32"/>
+  <g transform="translate(850, 60)" stroke-width="1.5" fill="none" stroke="#3D4642">
+    <circle cx="120" cy="120" r="40" stroke-opacity="0.3"/>
+    <circle cx="120" cy="120" r="80" stroke-opacity="0.15"/>
+    <circle cx="120" cy="120" r="120" stroke-opacity="0.08"/>
+    <circle class="accent" cx="120" cy="40" r="6" stroke="none"/>
+    <circle class="terracotta" cx="200" cy="120" r="6" stroke="none"/>
+    <circle class="accent" cx="40" cy="120" r="6" stroke="none"/>
+    <line x1="120" y1="46" x2="120" y2="114" stroke-opacity="0.4"/>
+    <line x1="126" y1="120" x2="194" y2="120" stroke-opacity="0.4"/>
+    <line x1="114" y1="120" x2="46" y2="120" stroke-opacity="0.4"/>
+    <path d="M120 46 L176 96 L120 114" stroke-opacity="0.3"/>
   </g>
-
-  <g fill="#8B948F">
-    <circle cx="104" cy="243" r="2"/>
-    <circle cx="116" cy="243" r="2"/>
-    <circle cx="128" cy="243" r="2"/>
-  </g>
-  <text x="1102" y="247" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#7A847E">github.com/LikC1606</text>
 </svg>
